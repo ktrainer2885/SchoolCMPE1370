@@ -1,0 +1,22 @@
+Self-Evaluation Form 
+ 
+item class private data members (5): 5
+item class constructors (5): 5
+item class public print method (5): 5
+item class other public methods (10): 10
+ 
+read function (10): 10
+print array function (10): 10
+first sort function (10): 10
+second sort function (10): 10
+ 
+main function printing test items (5): 5
+main function printing arrays (10): 10
+ 
+Good coding practices: 
+Style (indenting & spacing, reasonable identifiers, file structure) (5): 
+Compiles and runs (5): 5
+Sample test runs (5): 5
+Self-eval (5): 5
+ 
+Comments: Students altered the provided selction sort example for their program. 

@@ -1,0 +1,32 @@
+Rogelio Sergio Ramirez III
+CSCI/ CMPE 1370
+
+Self Evalulation Form
+
+Read in Fractions - 10
+Add - 10
+Subtract - 10
+Multiply - 10
+Divide - 10
+Reduce - 5
+GCD - 5
+Print Fraction - 10
+
+UI
+
+Responds to diffrent operators - 10
+Does problems until user says to stop - 5
+
+Good Coding Practices
+
+Style -5
+Compiles and Runs - 5
+Sample Test Runs - 5
+
+Comments
+
+Bonus attempted and completed with test runs
+
+Implementation of multiple operations is messy, but it works. 
+
+Maybe change variable names slightly
